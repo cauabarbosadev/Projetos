@@ -1,0 +1,65 @@
+body{
+    background-image: url('https://images2.alphacoders.com/324/32480.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.register-menu{
+    background-color: aliceblue;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 450px;
+
+}
+
+.first-name{
+    position: absolute;
+    left:80px;
+}
+
+.second-name{
+    position: absolute;
+    left: 100px;
+}
+
+.user{
+
+}
+
+.borned{
+
+}
+
+.create-password{
+
+}
+
+.confirm-password{
+
+}
+
+.optional-email{
+
+}
+
+.e-mail{
+
+}
+
+.terms-conditions{
+
+}
+
+.emails-promotions{
+    position: absolute;
+    cursor: pointer;
+    left: 200px;
+}
+
+.register-button{
+    position: absolute;
+    cursor: pointer;
+    left: 190px;
+    top: 400px;
+}
